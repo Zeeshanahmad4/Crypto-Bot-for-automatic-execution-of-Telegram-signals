@@ -37,7 +37,7 @@
 - [📋 Requirements](#requirements-)
 - [💡 Usage Examples](#usage-examples-)
    - [🚀 Setup and Installation Instructions](#setup-and-installation-instructions-)
- - [🛠️ Troubleshooting Tips](#troubleshooting-tips-)
+- [🛠️ Troubleshooting Tips](#troubleshooting-tips-)
 - [🤝 Contribution Guidelines](#contribution-guidelines-)
 
 
@@ -88,6 +88,7 @@ Clone the repository:
  Set up API keys and configuration settings in config/settings.py.
 Run the bot:
 ```python dashboard/app.py```
+
 
 ## Troubleshooting Tips 🛠️
 Ensure API keys and configuration settings are correctly set up.
