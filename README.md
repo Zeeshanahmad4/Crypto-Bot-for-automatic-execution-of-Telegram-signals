@@ -55,7 +55,7 @@
   - Implement advanced trading strategies.
   - Enhance dashboard with real-time data visualization.
 
-## Requirements  🛠️
+## Requirements
 - Python 3.6+
 - Dependencies listed in `requirements.txt`
 
