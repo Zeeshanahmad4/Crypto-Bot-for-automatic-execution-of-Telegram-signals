@@ -61,8 +61,11 @@ trade_executor = TradeExecutor()
 signal_reader.start()
 trade_executor.start()
 ```
-Setup and Installation Instructions 🚀
+
+## Setup and Installation Instructions 🚀
 Clone the repository:
-git clone https://github.com/your_username/arbitrage_bot.git
+git clone https://github.com/Zeeshanahmad4/Crypto-Bot-for-automatic-execution-of-Telegram-signals
+Navigate to the project directory:
+cd arbitrage_bot
 
 
