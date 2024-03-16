@@ -27,3 +27,7 @@
   <br />
   <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
+
+
+## Project Overview
+ArbitraGuru is an automated cryptocurrency arbitrage bot that helps users capitalize on price differences across different exchanges. The bot reads arbitrage signals from Telegram channels, automatically executes trades on specified exchanges, manages USDT funds, and provides a dashboard for trade monitoring.
