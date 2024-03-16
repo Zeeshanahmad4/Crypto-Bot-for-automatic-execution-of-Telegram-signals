@@ -31,6 +31,3 @@ src="https://github.com/Zeeshanahmad4/Zeeshanahmad4/blob/main/upwork.svg" />
   <br />
   <strong>For discussion, queries, and freelance work. Do reach me.🤖🤖🤖</strong>
 </div>
-
-## Project Overview
- 
