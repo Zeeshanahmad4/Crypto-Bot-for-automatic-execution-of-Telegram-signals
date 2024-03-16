@@ -37,7 +37,7 @@
 - [📋 Requirements](#requirements-)
 - [💡 Usage Examples](#usage-examples-)
    - [🚀 Setup and Installation Instructions](#setup-and-installation-instructions-)
-- [🛠️ Troubleshooting Tips](#troubleshooting-tips-)
+- [🛠️ Troubleshooting Tips](#contribution-guidelines-)
 - [🤝 Contribution Guidelines](#contribution-guidelines-)
 
 
