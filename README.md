@@ -52,7 +52,7 @@
 # Import necessary modules
 from bot.signal_reader import SignalReader
 from bot.trade_executor import TradeExecutor
-```
+
 # Initialize signal reader and trade executor
 signal_reader = SignalReader()
 trade_executor = TradeExecutor()
@@ -60,5 +60,7 @@ trade_executor = TradeExecutor()
 # Start the bot
 signal_reader.start()
 trade_executor.start()
+```
+
 
 
