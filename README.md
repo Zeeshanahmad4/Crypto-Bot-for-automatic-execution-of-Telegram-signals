@@ -29,5 +29,36 @@
 </div>
 
 
-## Project Overview
-ArbitraGuru is an automated cryptocurrency arbitrage bot that helps users capitalize on price differences across different exchanges. The bot reads arbitrage signals from Telegram channels, automatically executes trades on specified exchanges, manages USDT funds, and provides a dashboard for trade monitoring.
+## Project Overview 🌟
+**Crypto-Bot-for-automatic-execution-of-Telegram-signals** is an automated cryptocurrency arbitrage bot that helps users capitalize on price differences across different exchanges. The bot reads arbitrage signals from Telegram channels, automatically executes trades on specified exchanges, manages USDT funds, and provides a dashboard for trade monitoring.
+
+## Features ✨
+ Continuously monitors specific Telegram channels for arbitrage signals.
+- Automatically executes buy and sell orders on specified exchanges.
+- Manages USDT funds for buying and selling cryptocurrencies.
+- Provides a dashboard with trade overview, success rate, and control panel.
+
+## To-do features:
+  - Add support for additional exchanges.
+  - Implement advanced trading strategies.
+  - Enhance dashboard with real-time data visualization.
+
+## Requirements 🛠️
+- Python 3.6+
+- Dependencies listed in `requirements.txt`
+
+## Usage Examples 💡
+```python
+# Import necessary modules
+from bot.signal_reader import SignalReader
+from bot.trade_executor import TradeExecutor
+```
+# Initialize signal reader and trade executor
+signal_reader = SignalReader()
+trade_executor = TradeExecutor()
+
+# Start the bot
+signal_reader.start()
+trade_executor.start()
+
+
