@@ -66,11 +66,14 @@ trade_executor.start()
 Clone the repository:
 
 ``` git clone https://github.com/Zeeshanahmad4/Crypto-Bot-for-automatic-execution-of-Telegram-signals```
-Navigate to the project directory:
+
+  Navigate to the project directory:
 ```cd arbitrage_bot```
-Install dependencies:
+
+  Install dependencies:
 ```pip install -r requirements.txt```
-Set up API keys and configuration settings in config/settings.py.
+
+ Set up API keys and configuration settings in config/settings.py.
 Run the bot:
 ```python dashboard/app.py```
 
