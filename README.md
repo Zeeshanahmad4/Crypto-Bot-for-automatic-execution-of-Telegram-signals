@@ -61,6 +61,8 @@ trade_executor = TradeExecutor()
 signal_reader.start()
 trade_executor.start()
 ```
-
+Setup and Installation Instructions 🚀
+Clone the repository:
+git clone https://github.com/your_username/arbitrage_bot.git
 
 
