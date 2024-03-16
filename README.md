@@ -29,6 +29,18 @@
 </div>
 
 
+## Table of Contents 📖
+
+- [🌟 Project Overview](#project-overview-)
+- [✨ Features](#features-)
+   - [ To-Do Features](#to-do-features-)
+- [🛠️ Requirements](#requirements-)
+- [💡 Usage Examples](#usage-examples-)
+   - [🚀 Setup and Installation Instructions](#setup-and-installation-instructions-)
+- [🛠️ Troubleshooting Tips](#troubleshooting-tips-)
+- [🤝 Contribution Guidelines](#contribution-guidelines-)
+
+
 ## Project Overview 🌟
 **Crypto-Bot-for-automatic-execution-of-Telegram-signals** is an automated cryptocurrency arbitrage bot that helps users capitalize on price differences across different exchanges. The bot reads arbitrage signals from Telegram channels, automatically executes trades on specified exchanges, manages USDT funds, and provides a dashboard for trade monitoring.
 
