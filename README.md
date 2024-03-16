@@ -50,12 +50,12 @@
 - Manages USDT funds for buying and selling cryptocurrencies.
 - Provides a dashboard with trade overview, success rate, and control panel.
 
-## To-do features:
+## To-do features: 📌
   - Add support for additional exchanges.
   - Implement advanced trading strategies.
   - Enhance dashboard with real-time data visualization.
 
-## Requirements 🛠️
+## Requirements🛠️
 - Python 3.6+
 - Dependencies listed in `requirements.txt`
 
