@@ -98,8 +98,8 @@ Run the bot:
 ## Contribution Guidelines 🤝
 Fork the repository.
 - Create a new branch:  git checkout -b feature_branch.
-Make your changes and commit them: git commit -m 'Add new feature'.
-Push to the branch: git push origin feature_branch.
+- Make your changes and commit them:  git commit -m 'Add new feature'.
+- Push to the branch:  git push origin feature_branch.
 Submit a pull request.
 
 
